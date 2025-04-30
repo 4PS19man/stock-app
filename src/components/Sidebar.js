@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Sidebar.css'; // Make sure this CSS file exists for styling
+import './Sidebar.css'; 
 
 function Sidebar({ indexes, onSelect }) {
   const [activeIndex, setActiveIndex] = useState(null);

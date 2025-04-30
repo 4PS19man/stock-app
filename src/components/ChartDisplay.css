@@ -1,4 +1,4 @@
-/* src/App.css */
+
 
 body {
     margin: 0;
@@ -60,12 +60,12 @@ body {
   
   .chart-message {
     text-align: center;
-    font-size: 2rem;           /* Larger font size */
+    font-size: 2rem;           
     color: #007bff;
     font-weight: bold;
-    margin-top: 0;             /* Remove top margin */
+    margin-top: 0;             
     margin-bottom: 2rem;
-    padding-top: 0.5rem;       /* Optional: adds slight spacing from top */
+    padding-top: 0.5rem;       
   }
   
   
